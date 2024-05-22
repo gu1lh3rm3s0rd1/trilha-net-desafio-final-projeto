@@ -1,0 +1,14 @@
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\bin\Debug\net8.0\Calculadora.exe
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\bin\Debug\net8.0\Calculadora.deps.json
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\bin\Debug\net8.0\Calculadora.runtimeconfig.json
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\bin\Debug\net8.0\Calculadora.dll
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\bin\Debug\net8.0\Calculadora.pdb
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\obj\Debug\net8.0\Calculadora.dll
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\obj\Debug\net8.0\refint\Calculadora.dll
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\obj\Debug\net8.0\Calculadora.pdb
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\obj\Debug\net8.0\Calculadora.genruntimeconfig.cache
+C:\Users\estagiario04.ti\Desktop\DIO\TESTE UNITARIOS\ProjetoFinal\Calculadora\obj\Debug\net8.0\ref\Calculadora.dll
